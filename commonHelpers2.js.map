@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers2.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers2.js","sources":["../src/page.js"],"sourcesContent":["import { getFromLS } from './js/LS';\n\nconsole.log(getFromLS('contacts'));\n"],"names":["getFromLS"],"mappings":"4CAEA,QAAQ,IAAIA,EAAU,UAAU,CAAC"}
